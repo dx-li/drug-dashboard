@@ -20,8 +20,8 @@ The data for the dashboard is sourced from the Michigan Department of Licensing 
 ### Clone the Repository
 
 ```bash
-git clone <repository_url>
-cd <repository_name>
+git clone https://github.com/dx-li/drug-dashboard.git
+cd drug-dashboard
 ```
 
 ### Build the Docker Image
